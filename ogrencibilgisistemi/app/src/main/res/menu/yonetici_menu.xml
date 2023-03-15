@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/kayitOnayi"
+        android:title="Kayıt Onayla"></item>
+    <item android:id="@+id/duyuruEkle"
+        android:title="Duyuru Ekle"></item>
+    <item android:id="@+id/dersEkle"
+        android:title="Ders Ekle"></item>
+    <item android:id="@+id/yemekEkle"
+        android:title="Yemek Ekle"></item>
+    <item android:id="@+id/yoneticiCikis"
+        android:title="Cikis"></item>
+</menu>

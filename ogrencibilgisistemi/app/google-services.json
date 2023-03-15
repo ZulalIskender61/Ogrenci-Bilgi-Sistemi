@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696982068961",
+    "firebase_url": "https://obskayit-e8db4-default-rtdb.firebaseio.com",
+    "project_id": "obskayit-e8db4",
+    "storage_bucket": "obskayit-e8db4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696982068961:android:7a4459590dd5941a5821a0",
+        "android_client_info": {
+          "package_name": "com.example.ogrencibilgisistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696982068961-v0tigdh8r42sd6kme4bdin9l2o85jm6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNFQtSYQWanV9VZ20pQfP4yCDFr6N4_WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696982068961-v0tigdh8r42sd6kme4bdin9l2o85jm6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

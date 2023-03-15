@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ogrenciAnaSayfa"
+        android:title="Ana Sayfa"></item>
+    <item android:id="@+id/ogrenciKisiselBilgiler"
+        android:title="Kisisel Bilgiler"></item>
+    <item android:id="@+id/ogrenciSınavlar"
+        android:title="Sınavlar"></item>
+    <item
+        android:id="@+id/listYem"
+        android:title="Yemek Listesi"></item>
+    <item android:id="@+id/ogrenciCikis"
+        android:title="Cikis"></item>
+
+</menu>
